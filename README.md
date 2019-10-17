@@ -5,7 +5,7 @@ Often you need to add additional or relevant links to the bottom of your content
 For detailed instruction's, view Solodev's [How to Add Additional Links with Easy-to-Use Boxes Based on Bootstrap Columns](http://origin.solodev.com/blog/web-design/bootstrap/how-to-add-additional-links-with-easy-to-use-boxes-based-on-bootstrap-columns.stml) article.
  
 ## Demo  		  
-Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/gswzkc26/).
+Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/gswzkc26/2/).
 
 ## HTML
 
